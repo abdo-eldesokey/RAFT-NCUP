@@ -39,7 +39,7 @@ conda install opencv
 
 ## Pretrained Models
 
-Pretrained models can be downloaded from [Google Drive]() and should be placed in `models` directory.
+Pretrained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1ba-_Ao_XxXOg_Y2gH3KEy3MI_nz70RN3) and should be placed in `models` directory.
 
 
 
