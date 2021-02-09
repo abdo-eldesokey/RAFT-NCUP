@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation for our paper:
 
-**Normalized Convolution Upsampling for Refined Optical Flow Estimation **
+**Normalized Convolution Upsampling for Refined Optical Flow Estimation**
 
 Abdelrahman Eldesokey, and Michael Felsberg 
 
