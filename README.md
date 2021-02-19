@@ -11,7 +11,17 @@ Published at **VISAPP 2021**, Online Conference
 \[ [ArXiv](https://arxiv.org/abs/2102.06979) ]  
 
 ```
-
+@conference{visapp21,
+author={Abdelrahman Eldesokey. and Michael Felsberg.},
+title={Normalized Convolution Upsampling for Refined Optical Flow Estimation},
+booktitle={Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5 VISAPP: VISAPP,},
+year={2021},
+pages={742-752},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0010343707420752},
+isbn={978-989-758-488-6},
+}
 ```
 
 
